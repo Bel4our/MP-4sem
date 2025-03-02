@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E987D1-E45E-4DF5-9FAE-9EF249E296FB}|Knapsack\\Knapsack.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Knapsack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3E987D1-E45E-4DF5-9FAE-9EF249E296FB}|Knapsack\\Knapsack.vcxproj|solutionrelative:Knapsack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E987D1-E45E-4DF5-9FAE-9EF249E296FB}|Knapsack\\Knapsack.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Knapsack\\knapsack_s.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3E987D1-E45E-4DF5-9FAE-9EF249E296FB}|Knapsack\\Knapsack.vcxproj|solutionrelative:Knapsack\\knapsack_s.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0B6F3C-5081-4A8B-82C6-5BDF2D56ECB8}|Accomodations\\Accomodations.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Accomodations\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC0B6F3C-5081-4A8B-82C6-5BDF2D56ECB8}|Accomodations\\Accomodations.vcxproj|solutionrelative:Accomodations\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFDED48-6955-48D3-8D3E-7A4C0BD638F1}|Combinations\\Combinations.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Combinations\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFFDED48-6955-48D3-8D3E-7A4C0BD638F1}|Combinations\\Combinations.vcxproj|solutionrelative:Combinations\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D564F46-C9E0-440A-8CC2-2BBE9DD0ABF3}|lab2\\lab2.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\lab2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D564F46-C9E0-440A-8CC2-2BBE9DD0ABF3}|lab2\\lab2.vcxproj|solutionrelative:lab2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AF2FC2-FF13-40A1-8499-B3E682735100}|Subsets\\Subsets.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Subsets\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51AF2FC2-FF13-40A1-8499-B3E682735100}|Subsets\\Subsets.vcxproj|solutionrelative:Subsets\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Knapsack\\main.cpp",
+              "RelativeDocumentMoniker": "Knapsack\\main.cpp",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Knapsack\\main.cpp*",
+              "RelativeToolTip": "Knapsack\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T09:00:03.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "knapsack_s.cpp",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Knapsack\\knapsack_s.cpp",
+              "RelativeDocumentMoniker": "Knapsack\\knapsack_s.cpp",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Knapsack\\knapsack_s.cpp",
+              "RelativeToolTip": "Knapsack\\knapsack_s.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T08:59:54.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Accomodations\\main.cpp",
+              "RelativeDocumentMoniker": "Accomodations\\main.cpp",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Accomodations\\main.cpp",
+              "RelativeToolTip": "Accomodations\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T08:57:48.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Combinations\\main.cpp",
+              "RelativeDocumentMoniker": "Combinations\\main.cpp",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Combinations\\main.cpp",
+              "RelativeToolTip": "Combinations\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T08:55:22.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Subsets\\main.cpp",
+              "RelativeDocumentMoniker": "Subsets\\main.cpp",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\Subsets\\main.cpp",
+              "RelativeToolTip": "Subsets\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T08:54:05.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\lab2\\main.cpp",
+              "RelativeDocumentMoniker": "lab2\\main.cpp",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\2\\lab2\\lab2\\main.cpp",
+              "RelativeToolTip": "lab2\\main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T08:38:56.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
