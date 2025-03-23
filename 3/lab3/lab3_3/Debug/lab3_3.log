@@ -1,0 +1,42 @@
+﻿Сборка начата 08.03.2025 15:35:48.
+Уровень детализации журнала: Normal.     1>Проект "C:\лабы\Бурмакова\Математическое программирование\MP-4sem\3\lab3\lab3_3\lab3_3.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+         Создание каталога "C:\лабы\Бурмакова\Математическое программирование\MP-4sem\3\lab3\Debug\".
+         Создание каталога "Debug\lab3_3.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\lab3_3.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\lab3_3.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Combi.cpp main.cpp salesman.cpp
+         Combi.cpp
+         main.cpp
+         salesman.cpp
+     1>C:\лабы\Бурмакова\Математическое программирование\MP-4sem\3\lab3\lab3_3\salesman.cpp(41,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+     1>C:\лабы\Бурмакова\Математическое программирование\MP-4sem\3\lab3\lab3_3\salesman.cpp(49,22): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\лабы\Бурмакова\Математическое программирование\MP-4sem\3\lab3\Debug\lab3_3.exe" /INCREMENTAL /ILK:"Debug\lab3_3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\лабы\Бурмакова\Математическое программирование\MP-4sem\3\lab3\Debug\lab3_3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\лабы\Бурмакова\Математическое программирование\MP-4sem\3\lab3\Debug\lab3_3.lib" /MACHINE:X86 Debug\Combi.obj
+         Debug\main.obj
+         Debug\salesman.obj
+     1>MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+     1>C:\лабы\Бурмакова\Математическое программирование\MP-4sem\3\lab3\Debug\lab3_3.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+     1>Сборка проекта "C:\лабы\Бурмакова\Математическое программирование\MP-4sem\3\lab3\lab3_3\lab3_3.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\лабы\Бурмакова\Математическое программирование\MP-4sem\3\lab3\lab3_3\lab3_3.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\лабы\Бурмакова\Математическое программирование\MP-4sem\3\lab3\lab3_3\salesman.cpp(41,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+         C:\лабы\Бурмакова\Математическое программирование\MP-4sem\3\lab3\lab3_3\salesman.cpp(49,22): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+
+
+       "C:\лабы\Бурмакова\Математическое программирование\MP-4sem\3\lab3\lab3_3\lab3_3.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект Link) -> 
+         MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+         C:\лабы\Бурмакова\Математическое программирование\MP-4sem\3\lab3\Debug\lab3_3.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+
+    Предупреждений: 2
+    Ошибок: 2
+
+Прошло времени 00:00:01.37
