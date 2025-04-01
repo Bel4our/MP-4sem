@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9D8092-6E12-4664-A990-9435FB1B5D80}|lab4_5\\lab4_5.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F9D8092-6E12-4664-A990-9435FB1B5D80}|lab4_5\\lab4_5.vcxproj|solutionrelative:lab4_5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804B42A5-063A-43C8-AE9C-D9B073DEFB66}|lab4_2\\lab4_2.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{804B42A5-063A-43C8-AE9C-D9B073DEFB66}|lab4_2\\lab4_2.vcxproj|solutionrelative:lab4_2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9656F5B5-7E85-427A-A18B-9CE0BE9AFC86}|lab4\\lab4.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9656F5B5-7E85-427A-A18B-9CE0BE9AFC86}|lab4\\lab4.vcxproj|solutionrelative:lab4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9D8092-6E12-4664-A990-9435FB1B5D80}|lab4_5\\lab4_5.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_5\\MultiMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F9D8092-6E12-4664-A990-9435FB1B5D80}|lab4_5\\lab4_5.vcxproj|solutionrelative:lab4_5\\MultiMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9D8092-6E12-4664-A990-9435FB1B5D80}|lab4_5\\lab4_5.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_5\\MultiMatrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F9D8092-6E12-4664-A990-9435FB1B5D80}|lab4_5\\lab4_5.vcxproj|solutionrelative:lab4_5\\MultiMatrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804B42A5-063A-43C8-AE9C-D9B073DEFB66}|lab4_2\\lab4_2.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_2\\Levenshtein.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{804B42A5-063A-43C8-AE9C-D9B073DEFB66}|lab4_2\\lab4_2.vcxproj|solutionrelative:lab4_2\\Levenshtein.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804B42A5-063A-43C8-AE9C-D9B073DEFB66}|lab4_2\\lab4_2.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_2\\Levenshtein.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{804B42A5-063A-43C8-AE9C-D9B073DEFB66}|lab4_2\\lab4_2.vcxproj|solutionrelative:lab4_2\\Levenshtein.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultiMatrix.h",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_5\\MultiMatrix.h",
+              "RelativeDocumentMoniker": "lab4_5\\MultiMatrix.h",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_5\\MultiMatrix.h",
+              "RelativeToolTip": "lab4_5\\MultiMatrix.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T09:04:45.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiMatrix.cpp",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_5\\MultiMatrix.cpp",
+              "RelativeDocumentMoniker": "lab4_5\\MultiMatrix.cpp",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_5\\MultiMatrix.cpp",
+              "RelativeToolTip": "lab4_5\\MultiMatrix.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T09:04:30.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_5\\main.cpp",
+              "RelativeDocumentMoniker": "lab4_5\\main.cpp",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_5\\main.cpp",
+              "RelativeToolTip": "lab4_5\\main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T09:04:18.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_2\\main.cpp",
+              "RelativeDocumentMoniker": "lab4_2\\main.cpp",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_2\\main.cpp",
+              "RelativeToolTip": "lab4_2\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T19:53:36.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Levenshtein.h",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_2\\Levenshtein.h",
+              "RelativeDocumentMoniker": "lab4_2\\Levenshtein.h",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_2\\Levenshtein.h",
+              "RelativeToolTip": "lab4_2\\Levenshtein.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T19:53:15.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Levenshtein.cpp",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_2\\Levenshtein.cpp",
+              "RelativeDocumentMoniker": "lab4_2\\Levenshtein.cpp",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4_2\\Levenshtein.cpp",
+              "RelativeToolTip": "lab4_2\\Levenshtein.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T19:53:04.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4\\main.cpp",
+              "RelativeDocumentMoniker": "lab4\\main.cpp",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\4\\lab4\\lab4\\main.cpp",
+              "RelativeToolTip": "lab4\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T12:22:44.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
