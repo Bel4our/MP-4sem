@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\6\\lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E57C581-A7C6-4606-AEC1-B3C2E8772DE3}|lab6\\lab6.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\6\\lab6\\lab6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E57C581-A7C6-4606-AEC1-B3C2E8772DE3}|lab6\\lab6.vcxproj|solutionrelative:lab6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 317,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\6\\lab6\\lab6\\main.cpp",
+              "RelativeDocumentMoniker": "lab6\\main.cpp",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0411\u0443\u0440\u043C\u0430\u043A\u043E\u0432\u0430\\\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\MP-4sem\\6\\lab6\\lab6\\main.cpp",
+              "RelativeToolTip": "lab6\\main.cpp",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAKwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T12:57:13.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
